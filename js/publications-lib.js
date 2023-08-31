@@ -3056,6 +3056,44 @@ const publicationsList = [
   },
 
 
+  {
+    id: 223,
+    date: "October 8, 2023",
+    title: "N-Euro Predictor: A Neural Network Approach for Smoothing and Predicting Motion Trajectory",
+    description: '',
+    authors: "Qijia Shao, Jian Wang, Bing Zhou, An Vu Tran, Guru Krishnan, Shree Nayar",
+    eventID: 165,
+    researchArea: "Computational Sensing, Human-Computer Interaction",
+    PDFLink: "https://zhoubinwy.github.io/pdf/N_euro_predictor.pdf",
+    metadescription: '',
+    bgImage: "",
+  },
+  {
+    id: 224,
+    date: "October 8, 2023",
+    title: "MI-Poser: Human Body Pose Tracking using Magnetic and Inertial Sensor Fusion",
+    description: 'Inside-out tracking of human body pose using wearable sensors has great potential in AR/VR applications, for instance, remote communication using 3D avatars with full-body expressions. Existing inside-out systems typically adopt vision-based methods with hand-held controllers or employ densely distributed body-worn IMU sensors. The former prohibits hands-free and occlusion-robust interactions, while the latter suffers from insufficient accuracy. We propose MI-Poser, a body tracking system with AR glasses and two wrist-worn electromagnetic fields (EMF) sensors that achieves high-fidelity pose estimation using deep neural networks for inverse kinematics. Our lightweight system achieves high accuracy while running efficiently at 60Hz. Moreover, by leveraging an IMU sensor collocated with the EMF sensor, we propose solutions to mitigate the effects of metal interference that corrupts EMF signal, an inherent issue in EMF tracking. Our EMF-IMU fusion approach demonstrates significant tracking improvement in environments with different metal profiles. ',
+    authors: "Riku Arakawa, Bing Zhou, Mayank Goel, Shree Nayar, Guru Krishnan",
+    eventID: 165,
+    researchArea: "Computational Sensing, Human-Computer Interaction",
+    PDFLink: "https://zhoubinwy.github.io/pdf/MI_Poser.pdf",
+    metadescription: 'Inside-out tracking of human body pose using wearable sensors has great potential in AR/VR applications, for instance, remote communication using 3D avatars with full-body expressions. Existing inside-out systems typically adopt vision-based methods with hand-held controllers or employ densely distributed body-worn IMU sensors. The former prohibits hands-free and occlusion-robust interactions, while the latter suffers from insufficient accuracy. We propose MI-Poser, a body tracking system with AR glasses and two wrist-worn electromagnetic fields (EMF) sensors that achieves high-fidelity pose estimation using deep neural networks for inverse kinematics. Our lightweight system achieves high accuracy while running efficiently at 60Hz. Moreover, by leveraging an IMU sensor collocated with the EMF sensor, we propose solutions to mitigate the effects of metal interference that corrupts EMF signal, an inherent issue in EMF tracking. Our EMF-IMU fusion approach demonstrates significant tracking improvement in environments with different metal profiles.',
+    bgImage: "",
+  },
+  {
+    id: 225,
+    date: "October 16, 2023",
+    title: "Be Real in Scale: Swing for True Scale in Dual Camera Mode",
+    description: 'Many mobile AR apps that use the front-facing camera can benefit significantly from knowing the metric scale of the user’s face. However, the true scale of the face is hard to measure because monocular vision suffers from a fundamental ambiguity in scale. The methods based on prior knowledge about the scene either have a large error or are not easily accessible. In this paper, we propose a new method to measure the face scale by a simple user interaction: the user only needs to swing the phone to capture two selfies while using the recently popular Dual Camera mode. This mode allows simultaneous streaming of the front camera and the rear cameras and has become a key feature in many social apps. A computer vision method is applied to first estimate the absolute motion of the phone from the images captured by two rear cameras, and then calculate the point cloud of the face by triangulation. We develop a prototype mobile app to validate the proposed method. Our user study shows that the proposed method is favored compared to existing methods because of its high accuracy and ease of use. Our method can be built into Dual Camera mode and can enable a wide range of applications (e.g., virtual try-on for online shopping, true-scale 3D face modeling, gaze tracking, and face anti-spoofing) by introducing true scale to smartphone-based XR.',
+    authors: "Rui Yu, Jian Wang, Sizhuo Ma, Sharon Huang, Guru Krishnan, Yicheng Wu",
+    eventID: 166,
+    researchArea: "Computational Photography, Augmented Reality",
+    PDFLink: "",
+    metadescription: 'Many mobile AR apps that use the front-facing camera can benefit significantly from knowing the metric scale of the user’s face. However, the true scale of the face is hard to measure because monocular vision suffers from a fundamental ambiguity in scale. The methods based on prior knowledge about the scene either have a large error or are not easily accessible. In this paper, we propose a new method to measure the face scale by a simple user interaction: the user only needs to swing the phone to capture two selfies while using the recently popular Dual Camera mode. This mode allows simultaneous streaming of the front camera and the rear cameras and has become a key feature in many social apps. A computer vision method is applied to first estimate the absolute motion of the phone from the images captured by two rear cameras, and then calculate the point cloud of the face by triangulation. We develop a prototype mobile app to validate the proposed method. Our user study shows that the proposed method is favored compared to existing methods because of its high accuracy and ease of use. Our method can be built into Dual Camera mode and can enable a wide range of applications (e.g., virtual try-on for online shopping, true-scale 3D face modeling, gaze tracking, and face anti-spoofing) by introducing true scale to smartphone-based XR.',
+    bgImage: "",
+  },
+
+
 
 
   // {

@@ -462,7 +462,7 @@ const teamMembersList = [
     metaDescription: `
         `,
     name: "Anil Kag",
-    authorNames: ["Anil Kag",],
+    authorNames: ["Anil Kag"],
     email: "",
     subTitle: "Research Scientist",
     researchAreas: "Computer Vision, Machine Learning, Deep Learning",

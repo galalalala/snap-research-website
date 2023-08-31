@@ -946,6 +946,20 @@ const eventsList = [
     eventShort: "KDD 2023",
     url: "https://kdd.org/kdd2023/",
   },
+  {
+    id: 165,
+    date: "October 8, 2023",
+    eventName: "2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp)",
+    eventShort: "UbiComp 2023",
+    url: "https://www.ubicomp.org/ubicomp-iswc-2023/",
+  },
+  {
+    id: 166,
+    date: "October 16, 2023",
+    eventName: "22nd IEEE International Symposium on Mixed and Augmented Reality",
+    eventShort: "ISMAR 2023",
+    url: "https://ismar23.org/",
+  },
 
   // {
   //   id: 105,
