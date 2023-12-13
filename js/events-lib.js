@@ -960,6 +960,20 @@ const eventsList = [
     eventShort: "ISMAR 2023",
     url: "https://ismar23.org/",
   },
+  {
+    id: 167,
+    date: "June 1, 2023",
+    eventName: "IEEE Data Engineering Bulletin June 2023",
+    eventShort: "IEEE DEB 2023",
+    url: "http://sites.computer.org/debull/A23june/issue1.htm",
+  },
+  {
+    id: 168,
+    date: "December 10, 2022",
+    eventName: "37th Conference on Neural Information Processing Systems",
+    eventShort: "NeurIPS 2023",
+    url: "https://nips.cc/Conferences/2023",
+  },
 
   // {
   //   id: 105,
