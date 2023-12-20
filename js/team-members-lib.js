@@ -283,12 +283,12 @@ const teamMembersList = [
     name: "Hsin-Ying Lee",
     authorNames: ["Hsin-Ying Lee"],
     email: "",
-    subTitle: "Research Scientist",
+    subTitle: "Senior Research Scientist",
     researchAreas: "Generative Models, Image Editing",
     backUrl: "../team/category/creative-vision.html",
     imageUrl: "../../img-for-members/Hsin-Lee-Ying.webp",
     description: `
-    <p>Hsin-Ying Lee is a Research Scientist in the Creative Vision team at Snap Research. He received his Ph.D degree from the University of California, Merced, in 2020. His work focuses on applying generative models to various content creation tasks, including image-to-image translation, dance modeling, design generation, and image/video editing. Before joining Snap Inc, Hsin-Ying was an intern at Google Research and Nvidia.</p>
+    <p>Hsin-Ying Lee is a Senior Research Scientist in the Creative Vision team at Snap Research. He received his Ph.D degree from the University of California, Merced, in 2020. His work focuses on applying generative models to various content creation tasks, including image-to-image translation, dance modeling, design generation, and image/video editing. Before joining Snap Inc, Hsin-Ying was an intern at Google Research and Nvidia.</p>
     `,
   },
   {
@@ -299,12 +299,12 @@ const teamMembersList = [
     name: "Jian Ren",
     authorNames: ["Jian Ren"],
     email: "",
-    subTitle: "Senior Research Scientist",
+    subTitle: "Lead Research Scientist",
     researchAreas: "Computer Vision, Deep Learning",
     backUrl: "../team/category/creative-vision.html",
     imageUrl: "../../img-for-members/Jian_Ren_2019.webp",
     description: `
-    <p>Jian is a Senior Research Scientist working in the Creative Vision group at Snap Research. His research focuses on computer vision, deep learning, and generative models. Before joining Snap Inc., he worked as a Research Intern at Adobe, Snap Inc., and Bytedance Research. Jian obtained a PhD degree in Computer Engineering from Rutgers University in 2019.</p>
+    <p>Jian is a Lead Research Scientist working in the Creative Vision group at Snap Research. His research focuses on computer vision, deep learning, and generative models. Before joining Snap Inc., he worked as a Research Intern at Adobe, Snap Inc., and Bytedance Research. Jian obtained a PhD degree in Computer Engineering from Rutgers University in 2019.</p>
     `,
   },
   {
@@ -312,15 +312,15 @@ const teamMembersList = [
     metaTitle: "",
     metaDescription: `
         `,
-    name: "Kyle Olszewski",
-    authorNames: ["Kyle Olszewski"],
+    name: "Jackson (Kuan-Chieh) Wang",
+    authorNames: ["Jackson (Kuan-Chieh) Wang"],
     email: "",
-    subTitle: "Senior Research Scientist",
+    subTitle: "Research Scientist",
     researchAreas: "Computer Vision, Creative Vision",
     backUrl: "../team/category/creative-vision.html",
-    imageUrl: "../../img-for-members/kyle-olszewski.webp",
+    imageUrl: "../../img-for-members/jackson-snap-office.webp",
     description: `
-    <p>Kyle Olszewski is a Senior Research Scientist in the Creative Vision group at Snap Research. His research interests include facial expression tracking, particularly for emerging platforms such as virtual and augmented reality, 3D reconstruction, and intuitive interfaces for image manipulation and synthesis.  </p><p>He was previously a Ph.D. student at the University of Southern California, working in the Geometric Capture Lab under Hao Li. </p><p>His research has been published in venues such as SIGGRAPH, SIGGRAPH Asia, ICCV and CVPR. He was a recipient of the 2018 Snap Research Fellowship.</p>
+    <p>Jackson (Kuan-Chieh) Wang is a Research Scientist in the Creative Vision group at Snap Research.  His research focuses on personalization/customization of foundation generative models, with the objective of enabling people to tell their own stories visually, in a compelling yet simple manner. Before joining Snap, Jackson was a postdoc at Stanford University. He earned his PhD degree in Computer Science from the University of Toronto.</p>
     `,
   },
   {
