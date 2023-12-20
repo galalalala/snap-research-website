@@ -160,7 +160,7 @@ const teamMembersList = [
     backUrl: "../team/category/user-modeling-and-personalization.html",
     imageUrl: "../../img-for-members/Maarten_Bos_1.webp",
     description: `
-    <p>Maarten Bos is a quantitative experimental behavioral researcher, with expertise in decision-science, persuasion, and human-technology interaction. He brings four and a half years of experience leading a behavioral science group at Disney Research, translating research and analytics to business outcomes and improvements. Maarten’s research has been published in journals including Science, Psychological Science, Journal of Consumer Psychology, and The Review of Economic Studies. His work has been covered by the Wall Street Journal, Harvard Business Review, NPR, and The New York Times. Maarten received his PhD training in The Netherlands, and postdoc training from Harvard Business School and Harvard Medical School.</p>
+    <p>Maarten Bos is a quantitative experimental behavioral researcher, with expertise in decision-science, persuasion, and human-technology interaction. He has many years of experience leading research groups, including at Disney Research, translating research and analytics to business outcomes and improvements. Maarten’s research has been published in journals (including Science, Psychological Science, the Journal of Marketing Research, Computers in Human Behavior, and The Review of Economic Studies) and at conferences (including CHI, CSCW, and ICWSM). His work has been covered by the Wall Street Journal, Harvard Business Review, NPR, and The New York Times. Maarten received his PhD training in The Netherlands, and postdoc training from Harvard Business School and Harvard Medical School.</p>
     `,
   },
   {
