@@ -193,6 +193,22 @@ const teamMembersList = [
     `,
   },
   {
+    id: 112,
+    metaTitle: "",
+    metaDescription: `
+    `,
+    name: "Matthew Kolodner",
+    authorNames: ["Matthew Kolodner"],
+    email: "",
+    subTitle: "Research Engineer",
+    researchAreas: "User Modeling & Personalization",
+    backUrl: "../team/category/user-modeling-and-personalization.html",
+    imageUrl: "../../img-for-members/Matt_Kolodner.png",
+    description: `
+    <p>Matthew is a Research Engineer on the User Modeling & Personalization team at Snap Research. Matthew's work at Snap focuses on Graph Machine Learning, particularly in large scale applications. Prior to joining Snap Research full time, Matthew worked as a Machine Learning Engineering Intern at Microsoft and Snap. Matthew received his B.S and M.S in Computer Science from Stanford University with a specialization in Artificial Intelligence.</p>
+    `,
+  },
+  {
     id: 300,
     metaTitle: "",
     metaDescription: `
@@ -402,7 +418,7 @@ teamMembersList.forEach((teamMember) => {
 
 const teamMembersForTeamCategory = {
   computationalImaging: [1, 3, 5, 6],
-  userModelingAndPersonalization: [103, 106, 107, 109, 110, 111, 105],
+  userModelingAndPersonalization: [103, 106, 107, 109, 110, 111, 105, 112],
   creativeVision: [0, 300, 301, 302, 303, 304, 306, 307, 308, 309, 310, 311, 312],
   admin: [],
 
