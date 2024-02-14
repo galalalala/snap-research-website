@@ -974,6 +974,65 @@ const eventsList = [
     eventShort: "NeurIPS 2023",
     url: "https://nips.cc/Conferences/2023",
   },
+  {
+    id: 169,
+    date: "December 06, 2023",
+    eventName: "The 2023 Conference on Empirical Methods in Natural Language Processing",
+    eventShort: "EMNLP 2023",
+    url: "https://2023.emnlp.org/",
+  },
+  {
+    id: 170,
+    date: "November 02, 2023",
+    eventName: "Computers in Human Behavior, Volume 150",
+    eventShort: "CHB",
+    url: "https://www.sciencedirect.com/journal/computers-in-human-behavior/vol/150/suppl/C",
+  },
+  {
+    id: 171,
+    date: "February 07, 2024",
+    eventName: "AAAI Conference on Artificial Intelligence 2024",
+    eventShort: "AAAI 2024",
+    url: "https://aaai-24.aaai.org/",
+  },
+  {
+    id: 172,
+    date: "December 15, 2023",
+    eventName: "New Frontiers in Graph Learning Workshop, Neural Information Processing Systems 2023",
+    eventShort: "GLFrontiers 2023",
+    url: "https://glfrontiers.github.io/",
+  },
+  {
+    id: 173,
+    date: "March 04, 2024",
+    eventName: "17th ACM International WSDM Conference",
+    eventShort: "WSDM 2024",
+    url: "https://www.wsdm-conference.org/2024/",
+  },
+  {
+    id: 174,
+    date: "April 18, 2024",
+    eventName: "SIAM International Conference on Data Mining 2024",
+    eventShort: "SDM 2024",
+    url: "https://www.siam.org/conferences/cm/conference/sdm24",
+  },
+  {
+    id: 175,
+    date: "May 07, 2024",
+    eventName: "12th International Conference on Learning Representations",
+    eventShort: "ICLR 2024",
+    url: "https://iclr.cc/Conferences/2024",
+  },
+  {
+    id: 176,
+    date: "March 22, 2024",
+    eventName: "9th Workshop on Noisy and User-Generated Text, 18th Conference of the European Chapter of the Association for Computational Linguistics",
+    eventShort: "W-NUT 2024",
+    url: "https://noisy-text.github.io/2024/",
+  },
+
+
+
 
   // {
   //   id: 105,

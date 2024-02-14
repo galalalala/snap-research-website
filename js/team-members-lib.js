@@ -9,7 +9,7 @@ const teamMembersList = [
     email: "",
     subTitle: "Senior Program Manager",
     researchAreas: "Program Management",
-    backUrl: "../team/category/computational-imaging.html",
+    backUrl: "../team/category/creative-vision.html",
     imageUrl: "../../img-for-members/andrea-sornoza.webp",
     description: `
     <p>Andrea serves as the Program Manager supporting efforts across Snap Research. Before joining Snap Inc., she worked in operations and account management to oversee project development and deployment while building partner relationships. She holds a bachelor’s degree in Biology from Syracuse University.</p>
@@ -32,22 +32,6 @@ const teamMembersList = [
     `,
   },
   {
-    id: 2,
-    metaTitle: "",
-    metaDescription: `
-        `,
-    name: "Guru Krishnan",
-    authorNames: ["Guru Krishnan", "Gurunandan Krishnan", "Gurunandan Krishnan Gorumkonda"],
-    email: "",
-    subTitle: "Senior Manager, Principal Research Engineer",
-    researchAreas: "Computational Sensing, Smart Displays, Computer Vision",
-    backUrl: "../team/category/computational-imaging.html",
-    imageUrl: "../../img-for-members/GuruK2019.webp",
-    description: `
-    <p><p>Guru leads the Computational Sensing team. His research interests include computational imaging, photography, computer vision, and novel sensing and display paradigms. Before joining Snap Inc., Guru worked at Amazon, where he helped automate fulfillment and deliver multiple perception systems for robotics technologies. Guru received his Master’s in Computer Science from Columbia University. <p>Learn more about his work&nbsp;<a href="http://www.gurukrishnan.com/"><u>here</u></a>.
-    `,
-  },
-  {
     id: 3,
     metaTitle: "",
     metaDescription: `
@@ -65,23 +49,6 @@ const teamMembersList = [
     href="https://jianwang-cmu.github.io/"><u>here</u></a>.</p>
     `,
   },
-  {
-    id: 4,
-    metaTitle: "",
-    metaDescription: `
-        `,
-    name: "Karl Bayer",
-    authorNames: ["Karl Bayer"],
-    email: "",
-    subTitle: "Senior Research Engineer",
-    researchAreas: "Computational Imaging",
-    backUrl: "../team/category/computational-imaging.html",
-    imageUrl: "../../img-for-members/Karl_Bayer_1.webp",
-    description: `
-    <p>Karl Bayer is a Senior Research Engineer at Snap Research New York, specializing in mechanical design and prototyping. Before joining Snap Inc., he worked in aerospace manufacturing at Kulite Semiconductor Products, where he managed a production line specializing in semiconductor packaging. Karl received a Master’s in Computer Science from Columbia University, with a focus on vision, robotics, and interaction.</p>
-    `,
-  },
-
   {
     id: 5,
     metaTitle: "",
@@ -114,24 +81,6 @@ const teamMembersList = [
     `,
   },
   {
-    id: 102,
-    metaTitle: "",
-    metaDescription: `
-    `,
-    name: "Francesco Barbieri",
-    authorNames: ["Francesco Barbieri"],
-    email: "",
-    subTitle: "Lead Research Scientist",
-    researchAreas: "Natural Language Processing, User Modeling & Personalization",
-    backUrl: "../team/category/user-modeling-and-personalization.html",
-    imageUrl: "../../img-for-members/barbieri.webp",
-    description: `
-    <p>Francesco is a Lead Research Scientist at Snap Research, whose research is focused on Natural Language Processing. He has been working on understanding social media communications, visual and music domain. He is looking to further his research in multimodality. His work was published in top conferences such as ACL, EMNLP, NAACL, EACL, COLING, and CVPR. </p><p>
-    Francesco received his Ph.D. in Computer Science from Pompeu Fabra University in Barcelona, where he also completed his post-doc, with a thesis on machine learning algorithms for irony and emojis. Prior to joining Snap Research, he was a research scientist at Telefonica, working on machine learning algorithms for mental health. More on his work can be found <u><a href="https://scholar.google.com/citations?user=B10uzI4AAAAJ&hl=en&oi=ao">here</a></u>.
-    </p>
-    `,
-  },
-  {
     id: 103,
     metaTitle: "",
     metaDescription: `
@@ -145,22 +94,6 @@ const teamMembersList = [
     imageUrl: "../../img-for-members/Leonardo_Neves_1.webp",
     description: `
     <p>Leonardo is a Principal Research Engineer at Snap Research. His research is focused on Natural Language Processing and Data Mining, specifically in learning additional context to improve language understanding. </p><p>Leonardo's recent works involve personalizing and adding contextual information to large language models and leveraging sequence modeling for behavior understanding. </p><p>Before joining Snap Inc., Leonardo worked for Pivotal Software Inc., Intel, and Yelp, and, more recently, was the Head of Applied Research at Grammarly. He earned a Master's in Intelligent Information Systems from Carnegie Mellon University.</p>
-    `,
-  },
-  {
-    id: 104,
-    metaTitle: "",
-    metaDescription: `
-    `,
-    name: "Maarten Bos",
-    authorNames: ["Maarten Bos"],
-    email: "",
-    subTitle: "Lead Research Scientist, Manager",
-    researchAreas: "User Modeling & Personalization",
-    backUrl: "../team/category/user-modeling-and-personalization.html",
-    imageUrl: "../../img-for-members/Maarten_Bos_1.webp",
-    description: `
-    <p>Maarten Bos is a quantitative experimental behavioral researcher, with expertise in decision-science, persuasion, and human-technology interaction. He has many years of experience leading research groups, including at Disney Research, translating research and analytics to business outcomes and improvements. Maarten’s research has been published in journals (including Science, Psychological Science, the Journal of Marketing Research, Computers in Human Behavior, and The Review of Economic Studies) and at conferences (including CHI, CSCW, and ICWSM). His work has been covered by the Wall Street Journal, Harvard Business Review, NPR, and The New York Times. Maarten received his PhD training in The Netherlands, and postdoc training from Harvard Business School and Harvard Medical School.</p>
     `,
   },
   {
@@ -260,6 +193,22 @@ const teamMembersList = [
     `,
   },
   {
+    id: 112,
+    metaTitle: "",
+    metaDescription: `
+    `,
+    name: "Matthew Kolodner",
+    authorNames: ["Matthew Kolodner"],
+    email: "",
+    subTitle: "Research Engineer",
+    researchAreas: "User Modeling & Personalization",
+    backUrl: "../team/category/user-modeling-and-personalization.html",
+    imageUrl: "../../img-for-members/Matt_Kolodner.png",
+    description: `
+    <p>Matthew is a Research Engineer on the User Modeling & Personalization team at Snap Research. Matthew's work at Snap focuses on Graph Machine Learning, particularly in large scale applications. Prior to joining Snap Research full time, Matthew worked as a Machine Learning Engineering Intern at Microsoft and Snap. Matthew received his B.S and M.S in Computer Science from Stanford University with a specialization in Artificial Intelligence.</p>
+    `,
+  },
+  {
     id: 300,
     metaTitle: "",
     metaDescription: `
@@ -337,22 +286,6 @@ const teamMembersList = [
     imageUrl: "../../img-for-members/junli-cao.webp",
     description: `
     <p>Junli is a Research Engineer in the Creative Vision group at Snap Research facilitating the transition from research concepts to tangible products. His research interests lie in machine learning, computer vision and probabilistic graphical models. He received his Bachelor's degree in Mathematics from University of California, Los Angeles and Master's degree from Machine Learning Department in Carnegie Mellon University in 2023.</p>
-    `,
-  },
-{
-    id: 305,
-    metaTitle: "",
-    metaDescription: `
-        `,
-    name: "Qing Jin",
-    authorNames: ["Qing Jin"],
-    email: "",
-    subTitle: "Research Scientist",
-    researchAreas: "Computer Vision, Creative Vision",
-    backUrl: "../team/category/creative-vision.html",
-    imageUrl: "../../img-for-members/qing-jin.webp",
-    description: `
-    <p>Qing Jin is a Research Scientist working in the Creative Vision group at Snap Research. His research focuses on deep learning and generative models. He is also widely interested in theory of deep learning, especially methods from physics and computational neuroscience. He obtained his B.S. in microelectronics from Nankai University.</p>
     `,
   },
   {
@@ -484,9 +417,9 @@ teamMembersList.forEach((teamMember) => {
 });
 
 const teamMembersForTeamCategory = {
-  computationalImaging: [0, 1, 2, 3, 4, 5, 6],
-  userModelingAndPersonalization: [102, 103, 104, 106, 107, 109, 110, 111, 105],
-  creativeVision: [300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312],
+  computationalImaging: [1, 3, 5, 6],
+  userModelingAndPersonalization: [103, 106, 107, 109, 110, 111, 112, 105],
+  creativeVision: [0, 300, 301, 302, 303, 304, 306, 307, 308, 309, 310, 311, 312],
   admin: [],
 
   get all() {
