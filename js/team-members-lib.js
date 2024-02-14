@@ -418,7 +418,7 @@ teamMembersList.forEach((teamMember) => {
 
 const teamMembersForTeamCategory = {
   computationalImaging: [1, 3, 5, 6],
-  userModelingAndPersonalization: [103, 106, 107, 109, 110, 111, 105, 112],
+  userModelingAndPersonalization: [103, 106, 107, 109, 110, 111, 112, 105],
   creativeVision: [0, 300, 301, 302, 303, 304, 306, 307, 308, 309, 310, 311, 312],
   admin: [],
 
