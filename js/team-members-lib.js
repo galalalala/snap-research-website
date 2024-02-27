@@ -113,21 +113,6 @@ const teamMembersList = [
     `,
   },
   {
-    id: 106,
-    metaTitle: "",
-    metaDescription: `
-    `,
-    name: "Ron Dotsch",
-    authorNames: ["Ron Dotsch"],
-    email: "",
-    subTitle: "Lead Research Scientist",
-    researchAreas: "User Modeling & Personalization",
-    backUrl: "../team/category/user-modeling-and-personalization.html",
-    imageUrl: "../../img-for-members/Ron-Dotsch.webp",
-    description: `
-    <p>Ron is a Lead Research Scientist in the User Modeling & Personalization team at Snap Research, with a background in Behavioral Science and Artificial Intelligence. His work focuses on using machine learning and statistical approaches to better understand user behavior and the influence of context factors. He is most interested in the domain of online safety and abuse, although his work spans the entire palette of behaviors available on the Snapchat platform. His work has resulted in over 60 journal publications and he has received several professional awards for his academic work. Before joining Snap, Ron worked at Philips Research, Utrecht University, and Princeton University. He earned a PhD in Social Science in 2011 from Radboud University Nijmegen.</p>    `,
-  },
-  {
     id: 107,
     metaTitle: "",
     metaDescription: `
@@ -203,10 +188,25 @@ const teamMembersList = [
     subTitle: "Research Engineer",
     researchAreas: "User Modeling & Personalization",
     backUrl: "../team/category/user-modeling-and-personalization.html",
-    imageUrl: "../../img-for-members/Matt_Kolodner.png",
+    imageUrl: "../../img-for-members/Matt_Kolodner.jpg",
     description: `
     <p>Matthew is a Research Engineer on the User Modeling & Personalization team at Snap Research. Matthew's work at Snap focuses on Graph Machine Learning, particularly in large scale applications. Prior to joining Snap Research full time, Matthew worked as a Machine Learning Engineering Intern at Microsoft and Snap. Matthew received his B.S and M.S in Computer Science from Stanford University with a specialization in Artificial Intelligence.</p>
     `,
+  },
+  {
+    id: 113,
+    metaTitle: "",
+    metaDescription: `
+    `,
+    name: "Clark Ju",
+    authorNames: ["Mingxuan Ju"],
+    email: "",
+    subTitle: "Research Engineer",
+    researchAreas: "User Modeling & Personalization",
+    backUrl: "../team/category/user-modeling-and-personalization.html",
+    imageUrl: "../../img-for-members/Clark_Ju.jpeg",
+    description: `
+    <p>Clark is a Research Engineer in the Modeling & Personalization group at Snap Research. His work at Snap focuses on graph machine learning, recommender systems, representation learning, and user modeling. Before joining Snap as a full time, he was a research intern at Snap Research. He received a B.S. and M.S. in Computer Science from Case Western Reserve University and is expecting to receive a Ph.D. degree in Computer Science and Engineering from University of Notre Dame in 2024.</p>`,
   },
   {
     id: 300,
@@ -418,7 +418,7 @@ teamMembersList.forEach((teamMember) => {
 
 const teamMembersForTeamCategory = {
   computationalImaging: [1, 3, 5, 6],
-  userModelingAndPersonalization: [103, 106, 107, 109, 110, 111, 112, 105],
+  userModelingAndPersonalization: [103, 107, 109, 110, 111, 112, 113, 105],
   creativeVision: [0, 300, 301, 302, 303, 304, 306, 307, 308, 309, 310, 311, 312],
   admin: [],
 
