@@ -171,7 +171,7 @@ const teamMembersList = [
     name: "Neil Shah",
     authorNames: ["Neil Shah"],
     email: "",
-    subTitle: "Principal Research Scientist, Senior Manager",
+    subTitle: "Pringitcipal Research Scientist, Senior Manager",
     researchAreas: "Graph Machine Learning, Data Mining, User Modeling & Personalization",
     backUrl: "../team/category/user-modeling-and-personalization.html",
     imageUrl: "../../img-for-members/Neil_Shah_1.webp",
